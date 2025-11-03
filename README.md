@@ -51,7 +51,3 @@ Before you begin, ensure you have the following installed:
 - **Jupyter Notebook** or **Google Colab**
 - Required Python packages (see Installation section)
 
-## 🔧 Installation
-
-1. **Clone the repository**:
-```bash
