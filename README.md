@@ -43,11 +43,4 @@ This analysis helps organizations identify the most influential factors affectin
 - **Python 3.7+**
 - **Jupyter Notebook / Google Colab**
 
-## 📋 Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- **Python 3.7+**
-- **Jupyter Notebook** or **Google Colab**
-- Required Python packages (see Installation section)
 
